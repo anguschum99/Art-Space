@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="pic1">Sensei</string>
+    <string name="pic2">Koharu</string>
+    <string name="pic3">Azusa</string>
+    <string name="pic4">Seia</string>
+    <string name="pic5">Sensei</string>
+    <string name="year1">1999</string>
+    <string name="year2">2000</string>
+    <string name="year3">2001</string>
+    <string name="year4">2002</string>
+    <string name="year5">2003</string>
+
+
+</resources>
